@@ -1,0 +1,13 @@
+node_modules
+.env
+package-lock.json
+.vscode
+rental
+yarn.lock
+uploads
+imgs
+rental_img
+zx
+n7
+room_img
+
